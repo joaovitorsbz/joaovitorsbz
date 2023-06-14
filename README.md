@@ -42,6 +42,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsbz&layout=compact&theme=gruvbox"/>
 </div>
 
+
 ### Você também me encontra em:
 <div>
   <a href="https://www.linkedin.com/in/joaovitorsbz/">
